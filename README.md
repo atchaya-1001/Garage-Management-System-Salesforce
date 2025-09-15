@@ -1,5 +1,3 @@
-:
-
 🚗 Garage Management System – Salesforce Overview
 
 The Garage Management System (GMS) built on Salesforce is a cloud-based application designed to streamline and automate the operations of automobile service centers and garages. It leverages Salesforce’s CRM capabilities, workflow automation, and reporting tools to provide a centralized platform for managing customers, vehicles, service records, billing, and feedback.
